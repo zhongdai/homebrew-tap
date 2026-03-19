@@ -6,11 +6,17 @@ Homebrew formulae for [ruth-cli](https://github.com/zhongdai/ruth-cli) — an ag
 
 ```bash
 brew tap zhongdai/tap
+brew install ruth-cli
+```
+
+## Install from HEAD (latest main)
+
+```bash
 brew install ruth-cli --HEAD
 ```
 
 ## Update
 
 ```bash
-brew upgrade ruth-cli --fetch-HEAD
+brew upgrade ruth-cli
 ```
