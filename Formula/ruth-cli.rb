@@ -1,8 +1,8 @@
 class RuthCli < Formula
   desc "Agent-friendly TOTP authenticator CLI"
   homepage "https://github.com/zhongdai/ruth-cli"
-  url "https://github.com/zhongdai/ruth-cli/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "abc1a1a49e9722ff0251734198b7ca8bff764a6f4eddb3decac31fa62f71de8e"
+  url "https://github.com/zhongdai/ruth-cli/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "1efb82eee297e4ff4e00b7ecb80d95ead66bd7403b920fd5a1c3634f40ff9e15"
   license "MIT"
   head "https://github.com/zhongdai/ruth-cli.git", branch: "main"
 
