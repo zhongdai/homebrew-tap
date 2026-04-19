@@ -2,7 +2,7 @@ class BdWatcher < Formula
   desc "Lightweight TUI dashboard that watches bd (beads) graph progress"
   homepage "https://github.com/zhongdai/bd-watcher"
   url "https://github.com/zhongdai/bd-watcher/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "457c5be0d7c0b8aac4c2e321559c7de6a6bb376013501db9e33e454d9fddab5c"
   license "MIT"
   head "https://github.com/zhongdai/bd-watcher.git", branch: "main"
 
